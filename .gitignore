@@ -92,3 +92,4 @@ lib/generated_plugin_registrant.dart
 .dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG
 .dart_tool/chrome-device/Default/WebStorage/QuotaManager
 build/cache.dill.track.dill
+.dart_tool/chrome-device/
