@@ -66,3 +66,29 @@ lib/generated_plugin_registrant.dart
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter
+.dart_tool/chrome-device/Default/Favicons
+.dart_tool/chrome-device/Default/DIPS
+.dart_tool/chrome-device/Default/History
+.dart_tool/chrome-device/Default/Preferences
+.dart_tool/chrome-device/Default/Secure Preferences
+.dart_tool/chrome-device/Default/Visited Links
+.dart_tool/chrome-device/Default/Web Data
+.dart_tool/chrome-device/Default/Extension State/LOG
+.dart_tool/chrome-device/Default/GCM Store/Encryption/LOG
+.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG
+.dart_tool/chrome-device/Default/Network/Network Persistent State
+.dart_tool/chrome-device/Default/Network/Reporting and NEL
+.dart_tool/chrome-device/Default/Network/TransportSecurity
+.dart_tool/chrome-device/Default/Network/Trust Tokens
+.dart_tool/chrome-device/Default/Service Worker/Database/000003.log
+.dart_tool/chrome-device/Default/Service Worker/Database/LOG
+.dart_tool/chrome-device/Default/Service Worker/ScriptCache/index-dir/the-real-index
+.dart_tool/chrome-device/Default/Session Storage/000003.log
+.dart_tool/chrome-device/Default/Session Storage/LOG
+.dart_tool/chrome-device/Default/shared_proto_db/000003.log
+.dart_tool/chrome-device/Default/Shared Dictionary/cache/index-dir/the-real-index
+.dart_tool/chrome-device/Default/shared_proto_db/LOG
+.dart_tool/chrome-device/Default/shared_proto_db/metadata/000003.log
+.dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG
+.dart_tool/chrome-device/Default/WebStorage/QuotaManager
+build/cache.dill.track.dill
