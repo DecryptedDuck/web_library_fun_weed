@@ -72,7 +72,7 @@ class _KackaaaaState extends State<Kackaaaa> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'You have gassed the juice this many times:',
             ),
             Text(
               '$_counter',
